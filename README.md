@@ -1,5 +1,5 @@
 # PayPal DuckSell Plugin
-PayPal payment gateway integration for DuckSell
+PayPal payment gateway integration for DuckSell. Utilizing RESTful API this plugin will provide seamless integration with PayPal Express Checkout. After installation you will be able to generate purchase links directly on your product pages. 
 
 ## Quick Introduction
 [DuckSell](http://www.ducksell.com) allows you to sell your digital products on your own website and deliver them securely to your customers. You can easily sell various types of downloads. For example: pdf, ebook, program, template, photo, music, video, audio, mp3 etc.  
